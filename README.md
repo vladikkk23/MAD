@@ -1,2 +1,2 @@
-# MAP
+# MAD
 Mobile Application Programming
