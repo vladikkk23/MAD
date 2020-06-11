@@ -1,2 +1,4 @@
 # MAD
-Mobile Application Programming
+Mobile Application Development
+
+Some mobile app architectures
